@@ -2,7 +2,7 @@
 
 ### 在开始项目前 请确保已经配置好webdriver环境
 
-##### 整体识别思路参考 <a href='https://github.com/LiuXingMing/WeiboSliderCode'>Liuxingming</a> 和 <a href="https://github.com/Python3WebSpider/CrackWeiboSlide">Gerapy</a>, 识别速度更快了
+##### 整体识别思路参考 <a href='https://github.com/LiuXingMing/WeiboSliderCode'>Liuxingming</a> 和 <a href="https://github.com/Python3WebSpider/CrackWeiboSlide">Germey</a>, 识别速度更快了
 
 
 #### setup 1:
