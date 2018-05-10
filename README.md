@@ -1,9 +1,9 @@
 ### 微博九宫格模拟登陆
 
 ### 在开始项目前 请确保已经配置好webdriver环境
-```
-整体识别思路参考 Liuxingming 和 Gerapy, 识别速度更快了
-```
+
+##### 整体识别思路参考 <a href='https://github.com/LiuXingMing/WeiboSliderCode'>Liuxingming</a> 和 <a href="https://github.com/Python3WebSpider/CrackWeiboSlide">Gerapy</a>, 识别速度更快了
+
 
 #### setup 1:
 &nbsp;&nbsp;&nbsp;&nbsp;    运行 <strong>1_获取样本图片.py</strong> 获取大量样本图片
